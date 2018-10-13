@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi006jOveTdAhWyiOAKHfybDToQjRx6BAgBEAU&url=https%3A%2F%2Fthoughtcatalog.com%2Ftasdid-alvi%2F2017%2F09%2Fheres-what-lord-of-the-rings-character-you-are-based-on-your-zodiac-sign%2F&psig=AOvVaw1xTRJARmUSaX5JR9kNJc2G&ust=1538457122323276",
+        "name": "Frodo"
+    },
+    {
+        "id": 2,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/samwise-gamgee-samwise-gamgee-12089038-960-404.jpg?w=600&h=253&resize=600,253&quality=95&strip=all&crop=1",
+        "name": "Sam"
+    },
+    {
+        "id": 3,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/c_pippin_01.jpg?resize=600,240&quality=95&strip=all&crop=1",
+        "name": "Pippin"
+    },
+    {
+        "id": 4,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/lotr-boromir-1280jpg-b6a4d5_1280w.jpg?w=600&h=338&resize=600,338&quality=95&strip=all&crop=1",
+        "name": "Boromir"
+    },
+    {
+        "id": 5,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/o-legolas-facebook.jpg?w=600&h=300&resize=600,300&quality=95&strip=all&crop=1",
+        "name": "Legolas"
+    },
+    {
+        "id": 6,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/eowyn_01.jpg?w=600&h=237&resize=600,236&quality=95&strip=all&crop=1",
+        "name": "Eowyn"
+    },
+    {
+        "id": 7,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/galadriel_and_the_fellowship.png?w=600&h=252&resize=600,252&quality=95&strip=all&crop=1",
+        "name": "Galadriel"
+    },
+    {
+        "id": 8,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/0d41fe09a7cc2100a5133a6d0f4641c6.jpg?w=600&h=253&resize=600,253&quality=95&strip=all&crop=1",
+        "name": "Sauron"
+    },
+    {
+        "id": 9,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/martin-freeman-bilbo-baggins.jpg?w=600&h=206&resize=600,206&quality=95&strip=all&crop=1",
+        "name": "Bilbo"
+    },
+    {
+        "id": 10,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/front-pic.jpg?w=600&h=339&resize=600,339&quality=95&strip=all&crop=1",
+        "name": "Thorin"
+    },
+    {
+        "id": 11,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/aragorn_in_two_towers.png?w=600&h=251&resize=600,251&quality=95&strip=all&crop=1",
+        "name": "Aragorn"
+    },
+    {
+        "id": 12,
+        "image": "https://thoughtcatalog.files.wordpress.com/2017/09/gandalf_the_white_returns.png?w=600&h=251&resize=600,251&quality=95&strip=all&crop=1",
+        "name": "Gandalf"
+    }
+
+]
